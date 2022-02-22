@@ -12,13 +12,13 @@
 Clone este repositório
 
 ```bash
-  git clone https://github.com/luiz-gustavo0/album-photos.git
+  git clone https://github.com/luiz-gustavo0/buscador-cep.git
 ```
 
 Vá até a pasta do projeto
 
 ```bash
-  cd album-photos
+  cd buscador-cep
 ```
 
 Instale as dependências
